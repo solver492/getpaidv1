@@ -1,0 +1,59 @@
+# Built application & library files
+*.apk
+*.aar
+*.aab
+*.dex
+*.class
+
+# Generated build output
+build/
+app/build/
+*/build/
+.build-outputs/
+buildOutput.txt
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+
+# Local & environment configuration
+local.properties
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Keystore and signing keys (Push protection & Security)
+*.jks
+*.keystore
+debug.keystore
+debug.keystore.base64
+
+# Kotlin cache
+.kotlin/
+
+# IDE & Editor files
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Legacy / Web artifacts
+node_modules/
+dist/
+tmp/
+.cache/
+.expo/
+.expo-shared/
+

@@ -1,0 +1,6 @@
+{
+  "name": "GetPai",
+  "description": "Consumer Data & AI Platform for research insights, chat rewards, and data monetization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
